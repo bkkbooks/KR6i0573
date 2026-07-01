@@ -1,0 +1,520 @@
+canonical_identifier: bkk:krp/KR6i0573/X/v1
+canonical_location: https://kanripo.org/bkk/KR6i0573/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 圓覺經句釋正白
+  identifiers:
+    krp: KR6i0573
+    cbeta: X10n0262
+    cbeta_old_id: X10n0262
+    authorityid: CA0003875
+    json_key: X0262
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X10/X10n0262.xml
+    old_id: X10n0262
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0573_000-X.yaml, hash: 'sha256:a9986de570bc0ee0bd96dcd28c6d0d5ad5a7aaa573c2a53c2c5272a9ee7231f2'}
+  - {seq: 2, filename: KR6i0573_002-X.yaml, hash: 'sha256:5ed3aacc77ce073a0fbad37253d3a00bffa0d65375e89229548cf6e57d552710'}
+  - {seq: 3, filename: KR6i0573_003-X.yaml, hash: 'sha256:1d8f2671dcd2d0cc935e025130340326fee6e236ca69ee75ee73f07ea394ac0c'}
+  - {seq: 4, filename: KR6i0573_004-X.yaml, hash: 'sha256:11a20a2198d355f4c88d5f2b187da3b3ee1b20fd7a913600d0c22928a586364e'}
+  - {seq: 5, filename: KR6i0573_005-X.yaml, hash: 'sha256:7282da37d5c2aca467383d88faaeda39282160b8eb4ea40ca6d2b3ab827aab33'}
+  - {seq: 6, filename: KR6i0573_006-X.yaml, hash: 'sha256:f05d0b7bbce47154617a0846af6be5094127cdc36532dc1deda4c96dd047c49d'}
+  - {seq: 7, filename: KR6i0573_007-X.yaml, hash: 'sha256:c55c62e7411bdf210617e12e82db56085a9d13956bcc7ad3c6875826436210e0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0573_000-X.markers.yaml, hash: 'sha256:5577bd4432c122838cda303fcb84910e3638f2f25358638f5a3623bb748568fa'}
+  - {seq: 2, role: markers, filename: assets/KR6i0573_002-X.markers.yaml, hash: 'sha256:817cc02ee73f5a83fc8a14da2cc04e905697a4121e0aea3f70a0fb84ac56c907'}
+  - {seq: 3, role: markers, filename: assets/KR6i0573_003-X.markers.yaml, hash: 'sha256:ceabc1db5b2b825aba9bbee09a4345ae9566b4d6bd8085699e99e0606ea38626'}
+  - {seq: 4, role: markers, filename: assets/KR6i0573_004-X.markers.yaml, hash: 'sha256:a369604372b6e6757750db609eb295612ca87dea394562601717d28b98539974'}
+  - {seq: 5, role: markers, filename: assets/KR6i0573_005-X.markers.yaml, hash: 'sha256:42ccac33da506289cee69101a1e7da21e2d59507898eebcc90f55d2b6d5240b8'}
+  - {seq: 6, role: markers, filename: assets/KR6i0573_006-X.markers.yaml, hash: 'sha256:363de44c2219de91286c3ca0d0c6b75b4860cdf205e92298c0c80c18f9b5e7ba'}
+  - {seq: 7, role: markers, filename: assets/KR6i0573_007-X.markers.yaml, hash: 'sha256:159556069e9f71b7919bfe73c83e87335d261baeff01a5e899378bd9c19c0ca1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6i0573_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 262-A 圓覺經句釋正白首卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0573_X_000-mulu-2
+    span:
+    - front
+    - 23
+    - 23
+  label: 教理
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0573_X_000-mulu-3
+    span:
+    - front
+    - 442
+    - 442
+  label: 宗趣
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0573_X_000-mulu-4
+    span:
+    - front
+    - 1612
+    - 1612
+  label: 章脈
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0573_X_000-mulu-5
+    span:
+    - front
+    - 4238
+    - 4238
+  label: 圓覺經句釋正白科文
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0573_X_000-mulu-6
+    span:
+    - front
+    - 4247
+    - 4247
+  label: 總科
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0573_X_000-mulu-7
+    span:
+    - front
+    - 4489
+    - 4489
+  label: 別科
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0573_X_000-mulu-8
+    span:
+    - front
+    - 4491
+    - 4491
+  label: 序分
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0573_X_000-mulu-9
+    span:
+    - front
+    - 4600
+    - 4600
+  label: 正宗分
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0573_X_000-mulu-10
+    span:
+    - front
+    - 4611
+    - 4611
+  label: 第一文殊章
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0573_X_000-mulu-11
+    span:
+    - front
+    - 5106
+    - 5106
+  label: 第二普賢章
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0573_X_000-mulu-12
+    span:
+    - front
+    - 5484
+    - 5484
+  label: 第三普眼章
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0573_X_000-mulu-13
+    span:
+    - front
+    - 6194
+    - 6194
+  label: 第四金剛藏章
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0573_X_000-mulu-14
+    span:
+    - front
+    - 6705
+    - 6705
+  label: 第五彌勒章
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0573_X_000-mulu-15
+    span:
+    - front
+    - 7202
+    - 7202
+  label: 第六清淨慧章
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0573_X_000-mulu-16
+    span:
+    - front
+    - 7663
+    - 7663
+  label: 第七威德自在章
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0573_X_000-mulu-17
+    span:
+    - front
+    - 8005
+    - 8005
+  label: 第八辨音章
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0573_X_000-mulu-18
+    span:
+    - front
+    - 8605
+    - 8605
+  label: 第九淨諸業障章
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0573_X_000-mulu-19
+    span:
+    - front
+    - 9106
+    - 9106
+  label: 第十普覺章
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0573_X_000-mulu-20
+    span:
+    - front
+    - 9566
+    - 9566
+  label: 第十一圓覺章
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0573_X_000-mulu-21
+    span:
+    - front
+    - 9972
+    - 9972
+  label: 流通分
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0573_X_000-mulu-22
+    span:
+    - front
+    - 9972
+    - 9972
+  label: 第十二賢善首章
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0573_X_000-mulu-23
+    span:
+    - front
+    - 10220
+    - 10220
+  label: No. 262-B 圓覺經句釋正白序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0573_X_000-mulu-24
+    span:
+    - front
+    - 10776
+    - 10776
+  label: No. 262-C 圓覺經句釋正白序
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0573_X_1a-juan-start
+    span:
+    - body
+    - 0
+    - 8683
+  label: '大方廣圓覺修多羅了義經句釋正
+
+    白卷上之上'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0573_X_1a-mulu-1
+    span:
+    - body
+    - 27
+    - 27
+  label: 經題
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0573_X_1a-mulu-2
+    span:
+    - body
+    - 392
+    - 392
+  label: 序分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0573_X_1a-mulu-3
+    span:
+    - body
+    - 2300
+    - 2300
+  label: 正宗分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0573_X_1a-mulu-4
+    span:
+    - body
+    - 2347
+    - 2347
+  label: 文殊章
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0573_X_1b-juan-start
+    span:
+    - body
+    - 0
+    - 17394
+  label: 大方廣圓覺修多羅了義經句釋正白卷上之中
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0573_X_1b-mulu-1
+    span:
+    - body
+    - 27
+    - 27
+  label: 普賢章
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0573_X_1b-mulu-2
+    span:
+    - body
+    - 3968
+    - 3968
+  label: 普眼章
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0573_X_1c-juan-start
+    span:
+    - body
+    - 0
+    - 16188
+  label: 大方廣圓覺修多羅了義經句釋正白卷上之下
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0573_X_1c-mulu-1
+    span:
+    - body
+    - 27
+    - 27
+  label: 金剛藏章
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0573_X_1c-mulu-2
+    span:
+    - body
+    - 6984
+    - 6984
+  label: 彌勒章
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0573_X_2a-juan-start
+    span:
+    - body
+    - 0
+    - 16180
+  label: 大方廣圓覺修多羅了義經句釋正白卷下之上
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0573_X_2a-mulu-1
+    span:
+    - body
+    - 27
+    - 27
+  label: 清淨慧章
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0573_X_2a-mulu-2
+    span:
+    - body
+    - 6757
+    - 6757
+  label: 威德自在章
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0573_X_2a-mulu-3
+    span:
+    - body
+    - 10750
+    - 10750
+  label: 辨音章
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0573_X_2b-juan-start
+    span:
+    - body
+    - 0
+    - 14445
+  label: 大方廣圓覺修多羅了義經句釋正白卷下之中
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0573_X_2b-mulu-1
+    span:
+    - body
+    - 27
+    - 27
+  label: 淨諸業障章
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0573_X_2b-mulu-2
+    span:
+    - body
+    - 8506
+    - 8506
+  label: 普覺章
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0573_X_2c-juan-start
+    span:
+    - body
+    - 0
+    - 9316
+  label: 大方廣圓覺修多羅了義經句釋正白卷下之下
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0573_X_2c-mulu-1
+    span:
+    - body
+    - 27
+    - 27
+  label: 圓覺章
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0573_X_2c-mulu-2
+    span:
+    - body
+    - 5193
+    - 5193
+  label: 流通分
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0573_X_2c-mulu-3
+    span:
+    - body
+    - 5220
+    - 5220
+  label: 賢善首章
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0573_X_2c-mulu-4
+    span:
+    - body
+    - 8845
+    - 8845
+  label: No. 262-D 圓覺經句釋正白䟦語
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0573_X_2c-mulu-5
+    span:
+    - body
+    - 9289
+    - 9289
+  label: 圓覺經連珠
+  type: mulu
+  level: 1
+hash: sha256:a9ee577d9bd1db0e01f2ee9dafacb360b65928c0743f5aae8d5a855e1f0ca7c3
